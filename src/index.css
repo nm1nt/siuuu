@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    h1 {
+        @apply font-bold text-[40px]
+     }
+
+     a {
+        @apply font-light text-white border-b-[1.5px] border-solid border-[#5581d4] no-underline
+     } 
+
+     a:hover {
+        @apply font-light text-white border-b-[2px] border-solid border-white no-underline
+     }
+     /* input[type='text'] {
+        @apply text-white p-[5px] border-none font-[18px] outline-none border-b-[2px] border-solid border-white text-zinc-800
+     }
+
+        input[type='text']:focus {
+            @apply text-zinc-800  border-none font-[18px] bg-[#fff] outline-none border-b-[2px] border-solid
+        } */
+}
+
+@layer components {
+
+    .body {
+        @apply m-0 p-0 bg-[#0a1821] h-[100vh] w-[100vw] text-white text-center
+    }
+    .notfound-copy {
+      @apply text-white fixed top-[25px] right-[10%] text-right
+    }
+    .search-icon {
+        @apply inline-block
+    }
+
+    .starry-sky{
+        @apply block w-[100vw] h-[100vh] bg-cover
+    }
+
+    .not-found {
+        @apply w-[560px] h-[225px] mr-[10px]
+    }
+
+    .all-stars {
+        @apply animate-pulse
+    }
+  }
