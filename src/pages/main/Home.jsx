@@ -130,7 +130,7 @@ const Home = () => {
 
             <div className="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
               <a href="#_" className="block">
-                <img className="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="https://cdn.devdojo.com/images/may2021/workout.jpg"/>
+                <img className="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="https://cdn.devdojo.com/images/may2021/workout.jpg" />
               </a>
               <div className="bg-pink-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                 <span>Health</span>
@@ -142,7 +142,7 @@ const Home = () => {
 
             <div className="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
               <a href="#_" className="block">
-                <img className="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="https://cdn.devdojo.com/images/may2021/food.jpg"/>
+                <img className="object-cover w-full mb-2 overflow-hidden rounded-lg shadow-sm max-h-56" src="https://cdn.devdojo.com/images/may2021/food.jpg" />
               </a>
               <div className="bg-red-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                 <span>Food</span>
@@ -154,7 +154,7 @@ const Home = () => {
 
             <div className="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
               <a href="#_" className="block">
-                <img className="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="https://cdn.devdojo.com/images/may2021/books.jpg"/>
+                <img className="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="https://cdn.devdojo.com/images/may2021/books.jpg" />
               </a>
               <div className="bg-blue-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                 <span>Motivation</span>
@@ -166,7 +166,7 @@ const Home = () => {
 
             <div className="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
               <a href="#_" className="block">
-                <img className="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="https://cdn.devdojo.com/images/may2021/clock.jpg"/>
+                <img className="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="https://cdn.devdojo.com/images/may2021/clock.jpg" />
               </a>
               <div className="bg-gray-800 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                 <span>Business</span>
@@ -178,7 +178,7 @@ const Home = () => {
 
             <div className="flex flex-col items-start col-span-12 space-y-3 sm:col-span-6 xl:col-span-4">
               <a href="#_" className="block">
-                <img className="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="https://cdn.devdojo.com/images/may2021/lemons.jpg"/>
+                <img className="object-cover w-full mb-2 overflow-hidden rounded-lg max-h-56" src="https://cdn.devdojo.com/images/may2021/lemons.jpg" />
               </a>
               <div className="bg-yellow-400 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                 <span>Nutrition</span>
@@ -190,7 +190,14 @@ const Home = () => {
 
           </div>
         </div>
+
+        <div className="w-full flex items-end h-48 overflow-hidden">
+          <div className="w-full pt-[56.25%] relative">
+            <iframe className="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/B9VRvOKKwfs?autoplay=1&showinfo=0&controls=0" title="Rap Việt Mùa 3 - Tập 8: B Ray ghép cặp đấu thần sầu, tạo nên Đại chiến Nón Vàng | Rap Việt 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+        </div>
       </section>
+
 
       {/* <div className="flex flex-1 flex-col justify-center items-center gap-y-4">
         <h1 className="text-[48px] text-black">{count}</h1>
