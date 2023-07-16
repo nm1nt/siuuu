@@ -22,7 +22,7 @@ export const auth = getAuth(app)  // bien auth bay gio se su dung thay cho ham g
 export const db = getFirestore(app) // khai bao cho firebase biet minh se su dung firestore database thong qua bien database voi config chinh la bien app khoi tao boi firebaseConfig
 
 export const ROOM_CHAT_COLLECTION = 'Global_Chat' // khai bao ten collection
-export const FIREBASE_COLLECTION = 'Songs'
+export const FIREBASE_COLLECTION = 'travel'
 
 
 
