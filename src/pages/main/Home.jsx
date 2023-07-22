@@ -133,7 +133,14 @@ const Home = () => {
             })}
           </div>
         </div>
+
+        <div className="w-full flex items-end h-48 overflow-hidden">
+          <div className="w-full pt-[56.25%] relative">
+            <iframe className="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/B9VRvOKKwfs?autoplay=1&showinfo=0&controls=0" title="Rap Việt Mùa 3 - Tập 8: B Ray ghép cặp đấu thần sầu, tạo nên Đại chiến Nón Vàng | Rap Việt 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+        </div>
       </section>
+
 
       {/* <div className="flex flex-1 flex-col justify-center items-center gap-y-4">
         <h1 className="text-[48px] text-black">{count}</h1>
