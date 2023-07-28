@@ -62,19 +62,9 @@ const Detail = () => {
                 Boost Productivity
             </h2>
             <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-12 xl:pr-32 lg:text-lg">
-                Build an atmosphere that creates productivity in your organization and your company culture.
+            Khách sạn 7 sao Burj Al Arab được ví như một ngọn hải đăng bên bờ biển Jumeirah, biểu tượng của sự xa hoa, tráng lệ của Dubai. Vì sao có tận 7 sao? Dù các hành trình Du lịch Dubai chỉ đưa khách tham quan đứng bên ngoài check-in khách sạn thôi chứ không được vào trong nếu không đặt phòng nhưng chắc hẳn bạn vẫn tò mò nơi này có gì mà có tới 7 sao đẳng cấp phải không? Hãy cùng Kỳ Nghỉ Đông Dương tìm hiểu trước khi theo Tour Dubai đến đây check-in nhé!
             </p>
-            <ul class="p-0 m-0 leading-6 border-0 border-gray-300">
-                <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span> Maximize productivity and growth
-                </li>
-                <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span> Speed past your competition
-                </li>
-                <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span> Learn the top techniques
-                </li>
-            </ul>
+            
         </div>
         {/* <!-- End  Content --> */}
     </div>
@@ -86,19 +76,14 @@ const Detail = () => {
                 Automated Tasks
             </h2>
             <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-10 lg:text-lg">
-                Save time and money with our revolutionary services. We are the leaders in the industry.
+                12 sự thật về khách sạn Burj Al Arab
+Trước khi đi vào bài viết chi tiết, mời bạn xem qua những top 12 sự thật về khách sạn này để xem sự đẳng cấp được thể hiện như nào nhé!
+
+1. Khách sạn này thực chất chỉ có 5 sao. Danh hiệu 7 sao là do một nhà báo người Anh đặt sau khi được trải nghiệm sự tuyệt vời trên cả đẳng cấp 5 sao nên đã ưu ái dành tặng 7 sao. Dù sao đó khách sạn luôn từ chối vinh dự này nhưng danh hiệu vẫn luôn được gắn liền với khách sạn.
+
+2. Mọi thứ trong khách sạn từ sàn, tường, thậm chí đồ trang trí, nội thất đều được làm bằng vàng và đá cẩm thạch. Thậm chí trần của nhà hàng trong khách sạn còn được làm từ pha lê Swarovski.
             </p>
-            <ul class="p-0 m-0 leading-6 border-0 border-gray-300">
-                <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span> Automated task management workflow
-                </li>
-                <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span> Detailed analytics for your data
-                </li>
-                <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full" data-primary="yellow-400"><span class="text-sm font-bold">✓</span></span> Some awesome integrations
-                </li>
-            </ul>
+            
         </div>
         {/* <!-- End  Content --> */}
 
