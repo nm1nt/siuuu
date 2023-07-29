@@ -16,6 +16,7 @@ const firebaseConfig = {
   appId: "1:236267788502:web:d4dcf1fdd6a3bdf1c05177"
 };
 
+
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);  // khoi tao firebase project
 export const auth = getAuth(app)  // bien auth bay gio se su dung thay cho ham getAuth voi config la bien app dc khoi tao tu firebase
