@@ -12,7 +12,8 @@ import SignUp from './pages/signup/SignUp'
 import Forget from './pages/forgot-account/Forget'
 import NotFound from './pages/page-not-found/NotFound'
 import ChatRoom from './pages/chat/ChatRoom'
-import Detail from './pages/detailPage/Detail'
+import Detail1 from './pages/detailPage/Detail1'
+import Detail2 from './pages/detailPage/Detail2'
 
 const routers = createBrowserRouter(
   createRoutesFromElements(
@@ -22,7 +23,8 @@ const routers = createBrowserRouter(
       <Route path="signup" element={<SignUp />} />
       <Route path="forgot" element={<Forget />} />
       <Route path="chat" element={<ChatRoom />} />
-      <Route path="detail" element={<Detail/>}></Route>
+      <Route path="detail1" element={<Detail1/>}></Route>
+      <Route path="detail2" element={<Detail2/>}></Route>
       <Route path="*" element={<NotFound />} />
     </>
   )
