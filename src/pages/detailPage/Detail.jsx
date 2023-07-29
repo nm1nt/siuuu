@@ -35,7 +35,7 @@ const Detail = () => {
 		}));
 		setDataStore(collectionData);
 		setIsLoading(false);
-	  };	
+	  };	e
 	
 	
 	

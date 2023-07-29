@@ -92,6 +92,8 @@ const Home = () => {
   };
 
 
+  // console.log(dataStore)
+
 
   return (
     <div className="h-full w-full  flex flex-1 justify-center">
