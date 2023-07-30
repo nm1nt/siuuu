@@ -127,7 +127,7 @@ const Home = () => {
                   <div className="bg-blue-500 flex items-center px-3 py-1.5 leading-none rounded-full text-xs font-medium uppercase text-white inline-block">
                     <span>Recommended</span>
                   </div>
-                  <h2 className="text-lg font-bold sm:text-xl md:text-2xl"><a className="text-black underline" href="#_">{item.place}</a></h2>
+                  <h2 className="text-lg font-bold sm:text-xl md:text-2xl"><a className="text-black underline" href={'detail2'}>{item.place}</a></h2>
                   <p className="text-sm text-gray-500">{item.description}     <a href={'detail2'}>CLICK HERE FOR MORE INFO</a></p>
                   <p className="pt-2 text-xs font-medium"><a href="#_" className="mr-1">{item.address}</a> · <span className="mx-1">April 17, 2021</span> · <span className="mx-1 text-gray-600">3 min. read</span></p>
                 </div>
