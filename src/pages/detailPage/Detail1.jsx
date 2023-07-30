@@ -58,7 +58,7 @@ const Detail1 = () => {
         {/* <!-- Content --> */}
         <div class="box-border order-first w-full text-black border-solid md:w-1/2 md:pl-10 md:order-none">
             <h2 class="m-0 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-3xl md:text-2xl">
-                Boost Productivity
+                
             </h2>
             <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-12 xl:pr-32 lg:text-lg">
             Khách sạn 7 sao Burj Al Arab có gì? - Du lịch Dubai (2023)
@@ -73,7 +73,7 @@ Khách sạn 7 sao Burj Al Arab được ví như một ngọn hải đăng bên
         {/* <!-- Content --> */}
         <div class="box-border w-full text-black border-solid md:w-1/2 md:pl-6 xl:pl-32">
             <h2 class="m-0 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-3xl md:text-2xl">
-                Automated Tasks
+
             </h2>
             <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-10 lg:text-lg">
             Trước khi đi vào bài viết chi tiết, mời bạn xem qua những top 12 sự thật về khách sạn này để xem sự đẳng cấp được thể hiện như nào nhé!
@@ -101,7 +101,7 @@ Khách sạn 7 sao Burj Al Arab được ví như một ngọn hải đăng bên
         {/* <!-- Content --> */}
         <div class="box-border order-first w-full text-black border-solid md:w-1/2 md:pl-10 md:order-none">
             <h2 class="m-0 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-3xl md:text-2xl">
-                Boost Productivity
+
             </h2>
             <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-12 xl:pr-32 lg:text-lg">
             3. Tỉ lệ nhân viên và khách tới Burj Al Arab là 6:1. Vậy nên khách hàng được chăm sóc cực kỳ chu đáo. Thậm chí mỗi phòng còn có 1 quản gia riêng. 
@@ -119,7 +119,7 @@ Khách sạn 7 sao Burj Al Arab được ví như một ngọn hải đăng bên
         {/* <!-- Content --> */}
         <div class="box-border w-full text-black border-solid md:w-1/2 md:pl-6 xl:pl-32">
             <h2 class="m-0 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-3xl md:text-2xl">
-                Automated Tasks
+
             </h2>
             <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-10 lg:text-lg">
             6. Phần trung tâm công trình cao 180 mét, là một trong những tháp cao nhất thế giới.
@@ -148,7 +148,7 @@ Khách sạn 7 sao Burj Al Arab được ví như một ngọn hải đăng bên
         {/* <!-- Content --> */}
         <div class="box-border order-first w-full text-black border-solid md:w-1/2 md:pl-10 md:order-none">
             <h2 class="m-0 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-3xl md:text-2xl">
-                Boost Productivity
+
             </h2>
             <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-12 xl:pr-32 lg:text-lg">
             10. Hệ thống đèn chiếu sáng của khách sạn phổ rộng từ ánh sáng trắng đến đa màu, thay đổi từ ánh sáng này sang ánh sáng khác sau mỗi 30 phút thể hiện sự khi trời càng tối.
